@@ -8,12 +8,14 @@ I speak 4 languages, so use the one you're most comfortable with! The languages 
 **Native**:
 
 🇪🇸 - Spanish 
+
 🇦🇩 - Catalan (couldn't find a catalan flag)
 
 
 **Learner**:
 
 🇬🇧 - English (C2)
+
 🇫🇷 - French (B1)
 
 
