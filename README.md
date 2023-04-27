@@ -6,11 +6,15 @@ I've just started my Web Development path through The Odin Project. If you feel 
 I speak 4 languages, so use the one you're most comfortable with! The languages are:
 
 **Native**:
+
 🇪🇸 - Spanish 
 🇦🇩 - Catalan (couldn't find a catalan flag)
 
+
 **Learner**:
+
 🇬🇧 - English (C2)
 🇫🇷 - French (B1)
+
 
 I am currently learning the basics of WebDev!
