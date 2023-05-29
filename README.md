@@ -1,22 +1,20 @@
 # Hey! I'm Alex, welcome to my profile :)
 
-First things first, what are my...
-
 ## Skills:
 
-<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26" height=50> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" height=50> <img src="https://img.shields.io/badge/TailwindCSS-323330?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4" height=50> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=50>
-<img src="https://img.shields.io/badge/reactjs-323330?style=for-the-badge&logo=react&logoColor=61DAFB" height=50>
+<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26" height=40> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" height=40> <img src="https://img.shields.io/badge/TailwindCSS-323330?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4" height=40> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
+<img src="https://img.shields.io/badge/reactjs-323330?style=for-the-badge&logo=react&logoColor=61DAFB" height=40>
 
 <hr>
 
-## Learning
-<img src="https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=FFCA28" height=50> <img src="https://img.shields.io/badge/mongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" height=50> <img src="https://img.shields.io/badge/nextjs-323330?style=for-the-badge&logo=next.js&logoColor=ffffff" height=50>
+## Learning:
+<img src="https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=FFCA28" height=40> <img src="https://img.shields.io/badge/mongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" height=40> <img src="https://img.shields.io/badge/nextjs-323330?style=for-the-badge&logo=next.js&logoColor=ffffff" height=40>
 
 <hr>
 
 ## Tools:
 
-<img src="https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=FCC624" height=50> <img src="https://img.shields.io/badge/latex-323330?style=for-the-badge&logo=latex&logoColor=008080" height=50> <img src="https://img.shields.io/badge/vs CODE-323330?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height=50> <img src="https://img.shields.io/badge/markdown-323330?style=for-the-badge&logo=markdown&logoColor=ffffff" height=50>
+<img src="https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=FCC624" height=40> <img src="https://img.shields.io/badge/latex-323330?style=for-the-badge&logo=latex&logoColor=008080" height=40> <img src="https://img.shields.io/badge/vs CODE-323330?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height=40> <img src="https://img.shields.io/badge/markdown-323330?style=for-the-badge&logo=markdown&logoColor=ffffff" height=40>
 <hr>
 <br> <br>
 
